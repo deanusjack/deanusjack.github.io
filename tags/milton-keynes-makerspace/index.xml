@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milton Keynes Makerspace on Jack Deanus.co.uk</title>
+    <link>http://jackdeanus.co.uk/tags/milton-keynes-makerspace/</link>
+    <description>Recent content in Milton Keynes Makerspace on Jack Deanus.co.uk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jackdeanus.co.uk/tags/milton-keynes-makerspace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hacky Racers!</title>
+      <link>http://jackdeanus.co.uk/post/hacky-racers/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://jackdeanus.co.uk/post/hacky-racers/</guid>
+      <description>Hacky Racers! I&amp;rsquo;ve been involved with Hacky Racers, a do it yourself small electric vehicle racing league in the UK since fairly early in its conception and attended the first gathering of racers. As a member of Milton Keynes Makerspace I recently wrote a small blog post about some of our involvements with Hacky Racers and what it is. The original post can be found here however I have decided to cross post it here as an archive.</description>
+    </item>
+    
+  </channel>
+</rss>
